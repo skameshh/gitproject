@@ -3,6 +3,7 @@
 -- Server version:               5.5.13 - MySQL Community Server (GPL)
 -- Server OS:                    Win32
 -- HeidiSQL Version:             10.2.0.5599
+-- added by kamesh
 -- --------------------------------------------------------
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
